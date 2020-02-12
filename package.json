@@ -1,0 +1,11 @@
+{
+  "name": "that",
+  "version": "0.0.1",
+  "description": "directory tree and returns the first module",
+  "main": "index.js",
+  "author": "Usamaliaquat123 <inconnent4@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pkg-dir": "^4.2.0"
+  }
+}

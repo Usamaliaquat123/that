@@ -1,0 +1,1 @@
+const pkgDir = require('pkg-dir')

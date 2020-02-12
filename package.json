@@ -5,7 +5,16 @@
   "main": "index.js",
   "author": "Usamaliaquat123 <inconnent4@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "find",
+    "require",
+    "current",
+    "module",
+    "key",
+    "root"
+  ],
   "dependencies": {
+    "ava": "2.2.0",
     "pkg-dir": "^4.2.0"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "that",
   "version": "0.0.1",
-  "description": "directory tree and returns the first module",
+  "description": "Directory tree and returns the first module",
   "main": "index.js",
   "author": "Usamaliaquat123 <inconnent4@gmail.com>",
   "license": "MIT",
@@ -11,7 +11,10 @@
     "current",
     "module",
     "key",
-    "root"
+    "root",
+    "nyc",
+    "ava",
+    "coveralls"
   ],
   "scripts": {
     "test": "nyc ava",

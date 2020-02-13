@@ -13,8 +13,16 @@
     "key",
     "root"
   ],
+  "scripts": {
+    "test": "nyc ava",
+    "coverage" : "nyc report --reporter=text-lcov | coveralls"
+  },
   "dependencies": {
-    "ava": "2.2.0",
     "pkg-dir": "^4.2.0"
+  },
+  "devDependencies": {
+    "ava": "2.2.0",
+    "coveralls": "^3.0.9",
+    "nyc": "^15.0.0"
   }
 }

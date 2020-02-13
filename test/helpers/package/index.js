@@ -1,1 +1,1 @@
-module.exports  = 'package'
+module.exports = 'package';

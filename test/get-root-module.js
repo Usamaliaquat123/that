@@ -1,4 +1,5 @@
-import { test } from "ava";
+  
+import test from 'ava';
 
 const cwd = process.cwd();
 const pkgPath = require.resolve('../');
